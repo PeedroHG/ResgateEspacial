@@ -1,0 +1,17 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 0
+
+
+
+Número de astronautas não resgatados: 6
+
+Yuri Gagarin - Nível de saúde: 73 - Atendimento urgente: não - Posição: (5,7)
+Chris Hadfield - Nível de saúde: 100 - Atendimento urgente: sim - Posição: (1,7)
+Laika - Nível de saúde: 63 - Atendimento urgente: sim - Posição: (1,0)
+Valentina Tereshkova - Nível de saúde: 60 - Atendimento urgente: não - Posição: (3,2)
+Mae Jemison - Nível de saúde: 91 - Atendimento urgente: sim - Posição: (6,3)
+John Glenn - Nível de saúde: 77 - Atendimento urgente: sim - Posição: (1,9)
+
+Tempo total da operação de resgate: 0

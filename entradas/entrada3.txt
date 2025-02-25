@@ -1,0 +1,26 @@
+15 8
+........
+#..F.#..
+A...~.F.
+#.~FF.#.
+F.....~.
+.~......
+..#FF##.
+.A...F..
+..#.#..F
+S..F...#
+#~......
+....~...
+.F..#..~
+.A..~.#F
+~..#...A
+Astronautas:
+Laika,71,1
+Valentina Tereshkova,56,1
+John Glenn,63,1
+Yuri Gagarin,67,0
+Posicoes dos astronautas na matriz:
+Laika: (7,1)
+Valentina Tereshkova: (2,0)
+John Glenn: (13,1)
+Yuri Gagarin: (14,7)

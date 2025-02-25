@@ -1,0 +1,17 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 2
+
+Sally Ride - Nível de saúde: 54 - Atendimento urgente: não - Posição: (0,4)
+Mae Jemison - Nível de saúde: 88 - Atendimento urgente: sim - Posição: (3,0)
+
+
+Número de astronautas não resgatados: 4
+
+Valentina Tereshkova - Nível de saúde: 71 - Atendimento urgente: sim - Posição: (11,10)
+Laika - Nível de saúde: 62 - Atendimento urgente: sim - Posição: (5,13)
+Chris Hadfield - Nível de saúde: 82 - Atendimento urgente: não - Posição: (6,8)
+Yuri Gagarin - Nível de saúde: 96 - Atendimento urgente: sim - Posição: (4,9)
+
+Tempo total da operação de resgate: 22

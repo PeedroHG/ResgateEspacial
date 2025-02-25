@@ -1,0 +1,27 @@
+12 14
+....A.......#~
+#....~......#F
+.#..#.S..##..#
+A..#..~..FFF#.
+.........A....
+.F#.......##FA
+.~......A..#.F
+.......F.....F
+~...~~~.F~....
+.F~...........
+..........~~.#
+......F..~A.##
+Astronautas:
+Valentina Tereshkova,71,1
+Laika,62,1
+Chris Hadfield,82,0
+Yuri Gagarin,96,1
+Sally Ride,54,0
+Mae Jemison,88,1
+Posicoes dos astronautas na matriz:
+Valentina Tereshkova: (11,10)
+Laika: (5,13)
+Chris Hadfield: (6,8)
+Yuri Gagarin: (4,9)
+Sally Ride: (0,4)
+Mae Jemison: (3,0)

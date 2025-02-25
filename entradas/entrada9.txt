@@ -1,0 +1,27 @@
+14 10
+..##F.#..S
+..~..F..#.
+.......##.
+....~~....
+.#.~....#F
+......~...
+F.A....FA#
+..F.~.....
+....~.....
+.....F...#
+...#....##
+F.#...A..#
+.~~#AF~...
+AF.##..#..
+Astronautas:
+John Glenn,58,1
+Chris Hadfield,97,0
+Sally Ride,74,1
+Yuri Gagarin,51,1
+Mae Jemison,77,0
+Posicoes dos astronautas na matriz:
+John Glenn: (11,6)
+Chris Hadfield: (6,2)
+Sally Ride: (12,4)
+Yuri Gagarin: (6,8)
+Mae Jemison: (13,0)

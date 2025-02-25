@@ -1,0 +1,25 @@
+14 9
+.~...SF.#
+~#...~...
+.F.F~.#F.
+F..~....A
+...A#...~
+......#.F
+.##..#AA.
+.........
+.~..F....
+.....#.#.
+..##...F#
+~.F...#.#
+...##..#.
+F.#.#F...
+Astronautas:
+Marcos Pontes,66,1
+Mae Jemison,73,1
+Chris Hadfield,84,1
+Sally Ride,96,1
+Posicoes dos astronautas na matriz:
+Marcos Pontes: (6,6)
+Mae Jemison: (3,8)
+Chris Hadfield: (4,3)
+Sally Ride: (6,7)

@@ -1,0 +1,15 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 1
+
+Laika - Nível de saúde: 71 - Atendimento urgente: sim - Posição: (7,1)
+
+
+Número de astronautas não resgatados: 3
+
+Valentina Tereshkova - Nível de saúde: 56 - Atendimento urgente: sim - Posição: (2,0)
+John Glenn - Nível de saúde: 63 - Atendimento urgente: sim - Posição: (13,1)
+Yuri Gagarin - Nível de saúde: 67 - Atendimento urgente: não - Posição: (14,7)
+
+Tempo total da operação de resgate: 6

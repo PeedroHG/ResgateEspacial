@@ -1,0 +1,27 @@
+14 11
+F#~.F......
+.#.........
+F..A.A..#~.
+...FA.F.~.~
+#....F..#..
+...F#AF...~
+...#..#.S..
+..###....##
+....#.....#
+F#.F..#..#.
+.#..F..~F#.
+#~F.##...~#
+.A.~....F..
+.##..~..F#.
+Astronautas:
+John Glenn,82,1
+Mae Jemison,96,0
+Neil Armstrong,50,0
+Chris Hadfield,78,1
+Laika,90,0
+Posicoes dos astronautas na matriz:
+John Glenn: (12,1)
+Mae Jemison: (3,4)
+Neil Armstrong: (5,5)
+Chris Hadfield: (2,3)
+Laika: (2,5)

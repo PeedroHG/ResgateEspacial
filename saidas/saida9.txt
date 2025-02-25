@@ -1,0 +1,16 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 0
+
+
+
+Número de astronautas não resgatados: 5
+
+John Glenn - Nível de saúde: 58 - Atendimento urgente: sim - Posição: (11,6)
+Chris Hadfield - Nível de saúde: 97 - Atendimento urgente: não - Posição: (6,2)
+Sally Ride - Nível de saúde: 74 - Atendimento urgente: sim - Posição: (12,4)
+Yuri Gagarin - Nível de saúde: 51 - Atendimento urgente: sim - Posição: (6,8)
+Mae Jemison - Nível de saúde: 77 - Atendimento urgente: não - Posição: (13,0)
+
+Tempo total da operação de resgate: 0

@@ -1,0 +1,19 @@
+10 10
+.......#~.
+~#A...#..~
+.A...FF#.~
+...S....~.
+..#...#...
+##.F..F.~.
+A#.~..~.#.
+#...F..#..
+...#F.##..
+.#.~#..#~.
+Astronautas:
+Mae Jemison,97,1
+John Glenn,54,0
+Chris Hadfield,98,0
+Posicoes dos astronautas na matriz:
+Mae Jemison: (2,1)
+John Glenn: (6,0)
+Chris Hadfield: (1,2)

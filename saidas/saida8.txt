@@ -1,0 +1,15 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 0
+
+
+
+Número de astronautas não resgatados: 4
+
+John Glenn - Nível de saúde: 99 - Atendimento urgente: sim - Posição: (6,0)
+Chris Hadfield - Nível de saúde: 77 - Atendimento urgente: sim - Posição: (4,1)
+Laika - Nível de saúde: 97 - Atendimento urgente: sim - Posição: (6,8)
+Neil Armstrong - Nível de saúde: 81 - Atendimento urgente: não - Posição: (2,4)
+
+Tempo total da operação de resgate: 0

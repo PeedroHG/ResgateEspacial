@@ -1,0 +1,19 @@
+8 11
+..#.~~.....
+..~#F~..#..
+....A.~#.~.
+.......F..~
+.A..#.S.##~
+..##.F.#.F.
+A#..F#.#A..
+........F..
+Astronautas:
+John Glenn,99,1
+Chris Hadfield,77,1
+Laika,97,1
+Neil Armstrong,81,0
+Posicoes dos astronautas na matriz:
+John Glenn: (6,0)
+Chris Hadfield: (4,1)
+Laika: (6,8)
+Neil Armstrong: (2,4)

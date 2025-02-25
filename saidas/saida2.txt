@@ -1,0 +1,15 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 0
+
+
+
+Número de astronautas não resgatados: 4
+
+Chris Hadfield - Nível de saúde: 98 - Atendimento urgente: sim - Posição: (8,2)
+Marcos Pontes - Nível de saúde: 95 - Atendimento urgente: não - Posição: (10,4)
+Laika - Nível de saúde: 80 - Atendimento urgente: não - Posição: (4,3)
+Yuri Gagarin - Nível de saúde: 67 - Atendimento urgente: não - Posição: (8,5)
+
+Tempo total da operação de resgate: 0

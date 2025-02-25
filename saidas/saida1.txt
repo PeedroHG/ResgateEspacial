@@ -1,0 +1,16 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 4
+
+Buzz Aldrin - Nível de saúde: 95 - Atendimento urgente: não - Posição: (5,0)
+Marcos Pontes - Nível de saúde: 50 - Atendimento urgente: sim - Posição: (8,2)
+Yuri Gagarin - Nível de saúde: 85 - Atendimento urgente: não - Posição: (1,9)
+Valentina Tereshkova - Nível de saúde: 70 - Atendimento urgente: não - Posição: (3,9)
+
+
+Número de astronautas não resgatados: 1
+
+Neil Armstrong - Nível de saúde: 60 - Atendimento urgente: sim - Posição: (4,8)
+
+Tempo total da operação de resgate: 44

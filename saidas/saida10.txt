@@ -1,0 +1,14 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 2
+
+Chris Hadfield - Nível de saúde: 98 - Atendimento urgente: não - Posição: (1,2)
+Mae Jemison - Nível de saúde: 97 - Atendimento urgente: sim - Posição: (2,1)
+
+
+Número de astronautas não resgatados: 1
+
+John Glenn - Nível de saúde: 54 - Atendimento urgente: não - Posição: (6,0)
+
+Tempo total da operação de resgate: 8

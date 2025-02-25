@@ -1,0 +1,26 @@
+15 10
+.~~...#...
+~#~F..#...
+..#...F...
+..#F..~~..
+..#A..~...
+...#......
+..~..#~...
+FS.....F..
+..A#FA.~#F
+......F...
+..~.A..~#.
+.......F#.
+#........F
+#......#..
+..~.#...#.
+Astronautas:
+Chris Hadfield,98,1
+Marcos Pontes,95,0
+Laika,80,0
+Yuri Gagarin,67,0
+Posicoes dos astronautas na matriz:
+Chris Hadfield: (8,2)
+Marcos Pontes: (10,4)
+Laika: (4,3)
+Yuri Gagarin: (8,5)

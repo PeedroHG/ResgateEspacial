@@ -1,0 +1,25 @@
+10 15
+#.F.....~..#.##
+A#.F#.~A.A..~.F
+....~..F...~..#
+..A#..F...~~#..
+F.......~..##S~
+..#..F.A..~....
+#.FA#..F.#...~F
+...#....FF.#.##
+.....~F#.~F.#..
+#.#....##......
+Astronautas:
+Yuri Gagarin,73,0
+Chris Hadfield,100,1
+Laika,63,1
+Valentina Tereshkova,60,0
+Mae Jemison,91,1
+John Glenn,77,1
+Posicoes dos astronautas na matriz:
+Yuri Gagarin: (5,7)
+Chris Hadfield: (1,7)
+Laika: (1,0)
+Valentina Tereshkova: (3,2)
+Mae Jemison: (6,3)
+John Glenn: (1,9)

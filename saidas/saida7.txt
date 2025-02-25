@@ -1,0 +1,15 @@
+Relatório de resgate:
+
+
+Número de astronautas resgatados: 0
+
+
+
+Número de astronautas não resgatados: 4
+
+Marcos Pontes - Nível de saúde: 66 - Atendimento urgente: sim - Posição: (6,6)
+Mae Jemison - Nível de saúde: 73 - Atendimento urgente: sim - Posição: (3,8)
+Chris Hadfield - Nível de saúde: 84 - Atendimento urgente: sim - Posição: (4,3)
+Sally Ride - Nível de saúde: 96 - Atendimento urgente: sim - Posição: (6,7)
+
+Tempo total da operação de resgate: 0
