@@ -21,8 +21,8 @@ O programa deve processar múltiplos arquivos de entrada e gerar relatórios det
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/missao-resgate-espacial.git
-   cd missao-resgate-espacial
+   git clone https://github.com/PeedroHG/ResgateEspacial.git
+   cd ResgateEspacial
    ```
 
 2. Compile e rode o código:
@@ -34,7 +34,7 @@ O programa deve processar múltiplos arquivos de entrada e gerar relatórios det
 
 Este projeto é uma evolução do trabalho anterior, **Fuga Humana**, que implementava um algoritmo de menor caminho em **C** com um contexto mais simples. Caso tenha interesse, você pode conferir a primeira versão aqui:
 
-➡ **[Fuga Humana (Implementação em C)](link-para-o-repositório-c)**
+➡ **[Fuga Humana (Implementação em C)](https://github.com/PeedroHG/FugaHumana)**
 
 ### 📌 Próximos Passos
 
